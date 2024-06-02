@@ -17,7 +17,7 @@ namespace CapaPresentacion
         {
             InitializeComponent();
 
-            this.MinimizeBox.Enabled = false;
+            this.MaximizeBox = false;
         }
 
         private void panel2_Paint(object sender, PaintEventArgs e)
