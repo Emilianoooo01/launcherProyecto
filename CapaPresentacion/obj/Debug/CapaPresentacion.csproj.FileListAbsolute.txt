@@ -19,3 +19,4 @@ C:\Users\emili\Source\Repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPres
 C:\Users\emili\Source\Repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
 C:\Users\emili\Source\Repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\emili\Source\Repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
