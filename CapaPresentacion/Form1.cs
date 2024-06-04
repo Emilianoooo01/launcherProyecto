@@ -8,6 +8,7 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace CapaPresentacion
 {
@@ -29,7 +30,15 @@ namespace CapaPresentacion
 
         private void pictureBox7_Click(object sender, EventArgs e)
         {
+            //Remplazar por la direccion del videojuego
+            Process.Start("notepad.exe");
+        }
 
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+
+            form3.ShowDialog();
         }
     }
 }

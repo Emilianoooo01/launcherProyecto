@@ -20,3 +20,9 @@ C:\Users\emili\Source\Repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPres
 C:\Users\emili\Source\Repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\emili\Source\Repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Form3.resources
+C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\emili\source\repos\launcherProyecto\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date

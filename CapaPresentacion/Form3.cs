@@ -11,23 +11,24 @@ using CapaNegocio;
 
 namespace CapaPresentacion
 {
-    public partial class Form2 : Form
+    public partial class Form3 : Form
     {
         CN_Usuarios objetoCN = new CN_Usuarios();
 
-        public Form2()
+        public Form3()
         {
             InitializeComponent();
-
-            this.MaximizeBox = false;
         }
 
-        private void btnContinuar_Click(object sender, EventArgs e)
+        private void Form3_Load(object sender, EventArgs e)
         {
-            objetoCN.insertarProd(txtNombre.Text);
-            MessageBox.Show("Se registro correctamente");
+            mostratUsuarios();
+        }
 
-            this.Close();
+        private void mostratUsuarios()
+        {
+            CN_Usuarios objeto = new CN_Usuarios();
+            dataGridView1.DataSource = objeto.mostrarUsuario();
         }
     }
 }
