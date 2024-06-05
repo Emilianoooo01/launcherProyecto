@@ -1,7 +1,7 @@
 CREATE DATABASE Usuario
 GO
 
-USE inicioUsuario
+USE Usuario
 
 CREATE TABLE usuarios (
   ID_usuario INT IDENTITY(1,1) PRIMARY KEY,
@@ -9,13 +9,13 @@ CREATE TABLE usuarios (
   )
 GO
 
-CREATE PROC mostarUsuario
+CREATE PROC mostrarUsuario
 AS
-SELECT * FROM inicioUsuarios
+SELECT * FROM Usuario
 GO
 
 CREATE PROC agregarUsuario
   @nombre NVARCHAR(20)
 AS
-INSERT INTO inicioUsuario VALUES (@nombre)
+INSERT INTO Usuario VALUES (@nombre)
 GO
